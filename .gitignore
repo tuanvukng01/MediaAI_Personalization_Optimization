@@ -41,6 +41,8 @@ venv.bak/
 .ipynb_checkpoints
 
 dbt/target/
+dbt/.user.yml
+dbt/dbt_project.yml
 
 .aws/
 *.pem
@@ -55,8 +57,13 @@ src/project.db
 *.joblib
 *.h5
 
-src/recommender/recommender_model.pkl
+src/recommender/recommender_model.pth
 src/campaign_optimizatiohn/campaign_model.pkl
+src/data/processed/*.csv
+src/data/raw/*.csv
+
+setup.sh
+
 
 data/processed/*.csv
 data/processed/spark_campaigns_output/

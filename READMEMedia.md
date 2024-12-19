@@ -94,8 +94,8 @@ project/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/project.git
-   cd project
+   git clone https://github.com/tuanvukng01/MediaAI_Personalization_Optimization.git
+   cd MediaAI_Personalization_Optimization
    ```
 
 2. **Install Dependencies**
