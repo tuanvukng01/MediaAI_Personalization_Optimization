@@ -1,0 +1,1 @@
+select * from {{ ref('raw_user_profiles') }}
